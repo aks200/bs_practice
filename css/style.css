@@ -1,0 +1,36 @@
+body
+{
+    background-color:pink;
+}
+
+.container-fluid
+{
+    position:relative;
+}
+
+/*.col-md-4
+{
+    background-color:red;
+}
+
+.col-md-5
+{
+    background-color:red;
+}*/
+
+blockquote 
+{
+    border:0px;
+}
+
+
+.row img
+{
+    max-width:100%;
+    padding:10px 10px 10px 10px;
+}
+
+.col-md-4 img
+{
+    height:20px;
+}
